@@ -1,0 +1,3 @@
+name: augustuswm
+source: "."
+dest: "./_dist"
